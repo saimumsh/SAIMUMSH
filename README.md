@@ -106,15 +106,7 @@ public class ShahadatHossain : Developer
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saimumsh&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
-  </a>
-</div>
-
-<br/>
 
 ## 💻 Competitive Programming
 
