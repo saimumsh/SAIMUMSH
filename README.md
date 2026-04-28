@@ -183,7 +183,7 @@ Explored **ASP.NET Core MVC**, **Onion Architecture**, and **Repository Pattern*
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=saimumsh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=saimumsh&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" />
 
 <br/><br/>
 
